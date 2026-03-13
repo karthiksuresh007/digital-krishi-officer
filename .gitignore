@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Env
+.env
+.env.local
+.env.*
+
+# Firebase
+firebase-service-account.json
+
+# Build
+/dist
+/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
